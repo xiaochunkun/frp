@@ -1,7 +1,7 @@
 # frps 一键安装脚本
 ## 支持系统 Centos 7+ Debian 8+
 ```
-wget -N --no-check-certificate git.io/f.sh && chmod +x f.sh && bash f.sh install
+wget -N --no-check-certificate https://raw.githubusercontent.com/xiaochunkun/frp/main/frp-install.sh && chmod +x frp-install.sh && bash frp-install.sh install
 ```
 
 ## 一键修改 token
